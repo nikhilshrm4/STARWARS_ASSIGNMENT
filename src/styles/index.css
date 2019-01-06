@@ -1,0 +1,18 @@
+html, body, #root, .app-wrapper{
+	height: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Saira Semi Condensed', sans-serif;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #e6e6e6;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
